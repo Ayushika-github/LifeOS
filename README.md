@@ -287,6 +287,6 @@ Open [`lifeos/notebooks/lifeos_trl_unsloth_colab.ipynb`](lifeos/notebooks/lifeos
 
 **Built for the Meta OpenEnv Hackathon 2025**
 
-*Teaching AI to handle the beautiful chaos of being human.*
+*Teaching AI to handle the beautiful chaos of being human*
 
 </div>
