@@ -201,7 +201,7 @@ sequenceDiagram
 The Gradio dashboard includes several features designed for interactive analysis:
 
 - **🧠 Agent Inner Monologue:** The agent explains its reasoning at every step (e.g., *"Stress is at 80%, if I don't rest NOW I'll crash!"*).
-- **📈 Dynamic Vitals Plot:** Real-time Energy & Stress line graph tracking the agent's trajectory across all 30 steps.
+- **📈 Dynamic Vitals Plot :** Real-time Energy & Stress line graph tracking the agent's trajectory across all 30 steps.
 - **🗓️ Calendar Export (.ics):** Download the agent's finalized schedule as a standard `.ics` file — open it in Google Calendar or Apple Calendar to see the planned week.
 - **📊 Reward Breakdown Table:** Per-step reward decomposition across all 4 independent signals.
 
